@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 try:
     # for Python 2.x
     from StringIO import StringIO
