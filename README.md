@@ -28,3 +28,6 @@ Para asegurar que la ejecución dio el mismo resultado que ejecutándolo directa
 hadoop fs -cat output-tarea-urgencias-final/*  | sort > output-hadoop.txt
 ```
 
+## Ejecución Spark
+
+La ejecución en Spark está detallada en el notebook [tarea2_spark.ipynb](https://github.com/tristobal/mapreduce-urgencies/blob/master/tarea2_spark.ipynb)
