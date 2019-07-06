@@ -2,6 +2,30 @@
 
 Sobre una planilla con listado de atenciones de urgencia del 2018 de Santiago de Chile se ejecutan un algoritmo mapreduce en python para mostrar el total de atenciones por centro establecimiento.
 
+## Datos
+
+Variables de la base de datos del sistema de Atenciones de Urgencia
+
+*Ministerio de Salud- Departamento de Estadística e Información de Salud*
+
+| Campo | Descripción |
+|-------|-------------|
+| IdEstablecimiento | Código de Establecimiento. |
+| NEstablecimiento  | Nombre de Establecimiento |
+| IdCausa | Código de Causa |
+| GlosaCausa | Descripción de Causa |
+| Col01 | Total de personas atendidas |
+| Col02 | Menores de 1 año |
+| Col03 | 1 - 4 años |
+| Col04 | 5 - 14 años |
+| Col05 | 15 - 64 años |
+| Col06 | 65 y más años |
+| fecha | Fecha |
+| semana | Semana Estadística del año correspondiente | 
+| GLOSATIPOESTABLECIMIENTO | Tipo de Establecimiento |
+| GLOSATIPOATENCION | Tipo de Atención |
+| GlosaTipoCampana | Tipo de Campaña |
+
 ## Ejecución en local
 
 ```sh
