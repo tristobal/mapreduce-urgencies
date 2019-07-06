@@ -31,3 +31,30 @@ hadoop fs -cat output-tarea-urgencias-final/*  | sort > output-hadoop.txt
 ## Ejecución Spark
 
 La ejecución en Spark está detallada en el notebook [tarea2_spark.ipynb](https://github.com/tristobal/mapreduce-urgencies/blob/master/tarea2_spark.ipynb)
+
+## Ejecucicón Hive
+
+Se crea la tabla cuidando de respetar la ',' dentro de caracteres con comillas dobles.
+
+```sql
+create table urgencias_final(id string,
+nombre string,
+comuna string,
+total bigint,
+fecha string,
+semana int,
+avg double,
+max double,
+min double)
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+WITH SERDEPROPERTIES (
+   "separatorChar" = ",",
+   "quoteChar"     = "\"");
+
+LOAD DATA LOCAL INPATH '/user/jsanchez/rgencias2008_2019.csv' OVERWRITE INTO TABLE urgencias_final;
+```
+
+Luego para ejecutar la consulta:
+```sql
+SELECT comuna, fecha, SUM(total) as total FROM (SELECT comuna, SUBSTR(fecha, 7, 4) AS fecha, SUM(cast(TRIM(total) as BIGINT)) as total FROM csanchez.urgencias_final GROUP BY comuna, fecha) a GROUP BY comuna, fecha ORDER BY comuna, fecha
+```
