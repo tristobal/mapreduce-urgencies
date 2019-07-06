@@ -30,6 +30,8 @@ Sobre una planilla con listado de atenciones de urgencia del 2018 de Santiago de
 
 Mediciones de Stgo (estación Quilicura).
 
+* Dirección Metereológica de Chile *
+
 | Timestamp medición | Temperatura |
 |--------------------|-------------|
 | 01/01/2008 00:00   | 27.2        |
@@ -71,7 +73,7 @@ hadoop fs -cat output-tarea-urgencias-final/*  | sort > output-hadoop.txt
 
 La ejecución en Spark está detallada en el notebook [tarea2_spark.ipynb](https://github.com/tristobal/mapreduce-urgencies/blob/master/tarea2_spark.ipynb)
 
-## Ejecucicón Hive
+## Ejecución Hive
 
 Se crea la tabla cuidando de respetar la ',' dentro de caracteres con comillas dobles.
 
