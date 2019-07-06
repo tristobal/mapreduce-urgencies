@@ -1,0 +1,518 @@
+Alhué	2018	3093
+Alhué	2019	918
+Buin	2009	13935
+Buin	2010	27672
+Buin	2011	22148
+Buin	2012	20710
+Buin	2013	36274
+Buin	2014	31918
+Buin	2015	28855
+Buin	2016	26660
+Buin	2017	20585
+Buin	2018	18490
+Buin	2019	8115
+Cerrillos	2008	11237
+Cerrillos	2009	13646
+Cerrillos	2010	16563
+Cerrillos	2011	15737
+Cerrillos	2012	18110
+Cerrillos	2013	17485
+Cerrillos	2014	17515
+Cerrillos	2015	19519
+Cerrillos	2016	19603
+Cerrillos	2017	14158
+Cerrillos	2018	13877
+Cerrillos	2019	5222
+Colina	2010	24567
+Colina	2011	28886
+Colina	2012	30718
+Colina	2013	26708
+Colina	2014	39930
+Colina	2015	40956
+Colina	2016	36763
+Colina	2017	25809
+Colina	2018	24450
+Colina	2019	10881
+Conchalí	2008	15161
+Conchalí	2009	17516
+Conchalí	2010	37974
+Conchalí	2011	46744
+Conchalí	2012	60553
+Conchalí	2013	69245
+Conchalí	2014	63700
+Conchalí	2015	63451
+Conchalí	2016	62444
+Conchalí	2017	53119
+Conchalí	2018	44168
+Conchalí	2019	16004
+Curacaví	2009	4928
+Curacaví	2010	11140
+Curacaví	2011	10995
+Curacaví	2012	11096
+Curacaví	2013	11747
+Curacaví	2014	11662
+Curacaví	2015	12073
+Curacaví	2016	15090
+Curacaví	2017	11922
+Curacaví	2018	10298
+Curacaví	2019	4464
+El Bosque	2008	29893
+El Bosque	2009	40958
+El Bosque	2010	63906
+El Bosque	2011	58299
+El Bosque	2012	60232
+El Bosque	2013	64425
+El Bosque	2014	62161
+El Bosque	2015	65893
+El Bosque	2016	63373
+El Bosque	2017	60592
+El Bosque	2018	77306
+El Bosque	2019	31434
+Estación Central	2008	15543
+Estación Central	2009	16311
+Estación Central	2010	21466
+Estación Central	2011	19285
+Estación Central	2012	26761
+Estación Central	2013	32408
+Estación Central	2014	28189
+Estación Central	2015	30627
+Estación Central	2016	31068
+Estación Central	2017	30035
+Estación Central	2018	30565
+Estación Central	2019	12053
+Huechuraba	2008	16032
+Huechuraba	2009	15194
+Huechuraba	2010	19778
+Huechuraba	2011	16466
+Huechuraba	2012	16534
+Huechuraba	2013	15655
+Huechuraba	2014	16239
+Huechuraba	2015	18751
+Huechuraba	2016	17961
+Huechuraba	2017	18271
+Huechuraba	2018	17020
+Huechuraba	2019	5302
+Independencia	2008	34740
+Independencia	2009	43388
+Independencia	2010	53473
+Independencia	2011	44720
+Independencia	2012	48437
+Independencia	2013	46466
+Independencia	2014	41597
+Independencia	2015	41773
+Independencia	2016	36097
+Independencia	2017	39221
+Independencia	2018	40948
+Independencia	2019	14746
+Isla de Maipo	2009	5302
+Isla de Maipo	2010	11553
+Isla de Maipo	2011	10270
+Isla de Maipo	2012	10369
+Isla de Maipo	2013	10321
+Isla de Maipo	2014	11637
+Isla de Maipo	2015	15447
+Isla de Maipo	2016	15509
+Isla de Maipo	2017	13598
+Isla de Maipo	2018	14058
+Isla de Maipo	2019	5921
+La Cisterna	2009	5926
+La Cisterna	2010	15177
+La Cisterna	2011	13045
+La Cisterna	2012	13008
+La Cisterna	2013	10016
+La Cisterna	2014	6644
+La Cisterna	2015	9540
+La Cisterna	2016	10313
+La Cisterna	2017	8569
+La Cisterna	2018	9583
+La Cisterna	2019	4508
+La Florida	2008	12883
+La Florida	2009	51998
+La Florida	2010	87922
+La Florida	2011	79294
+La Florida	2012	88996
+La Florida	2013	97062
+La Florida	2014	87797
+La Florida	2015	93921
+La Florida	2016	93221
+La Florida	2017	83453
+La Florida	2018	77854
+La Florida	2019	30829
+La Granja	2009	28044
+La Granja	2010	65678
+La Granja	2011	56112
+La Granja	2012	57991
+La Granja	2013	57351
+La Granja	2014	59681
+La Granja	2015	69895
+La Granja	2016	65244
+La Granja	2017	64583
+La Granja	2018	58360
+La Granja	2019	23967
+Lampa	2010	4002
+Lampa	2012	34423
+Lampa	2013	35700
+Lampa	2014	27358
+Lampa	2015	30318
+Lampa	2016	31516
+Lampa	2017	30730
+Lampa	2018	27274
+Lampa	2019	11450
+La Pintana	2009	43243
+La Pintana	2010	92438
+La Pintana	2011	82928
+La Pintana	2012	70649
+La Pintana	2013	78772
+La Pintana	2014	81053
+La Pintana	2015	88560
+La Pintana	2016	87660
+La Pintana	2017	86393
+La Pintana	2018	81172
+La Pintana	2019	30658
+La Reina	2011	4525
+La Reina	2012	5648
+La Reina	2013	7862
+La Reina	2014	8463
+La Reina	2015	9759
+La Reina	2016	9462
+La Reina	2017	9950
+La Reina	2018	9981
+La Reina	2019	3817
+Las Condes	2009	845
+Las Condes	2010	15796
+Las Condes	2011	15038
+Las Condes	2012	15119
+Las Condes	2013	13213
+Las Condes	2014	12338
+Las Condes	2015	14131
+Las Condes	2016	13089
+Las Condes	2017	13381
+Las Condes	2018	11914
+Las Condes	2019	5245
+Lo Barnechea	2009	1368
+Lo Barnechea	2010	22398
+Lo Barnechea	2011	15531
+Lo Barnechea	2012	18394
+Lo Barnechea	2013	18150
+Lo Barnechea	2014	15853
+Lo Barnechea	2015	15523
+Lo Barnechea	2016	17308
+Lo Barnechea	2017	16484
+Lo Barnechea	2018	14352
+Lo Barnechea	2019	5412
+Lo Espejo	2009	24872
+Lo Espejo	2010	64222
+Lo Espejo	2011	60808
+Lo Espejo	2012	60640
+Lo Espejo	2013	57728
+Lo Espejo	2014	52311
+Lo Espejo	2015	56518
+Lo Espejo	2016	54532
+Lo Espejo	2017	45905
+Lo Espejo	2018	45209
+Lo Espejo	2019	19345
+Lo Prado	2009	5724
+Lo Prado	2010	13598
+Lo Prado	2011	15304
+Lo Prado	2012	21617
+Lo Prado	2013	22524
+Lo Prado	2014	20255
+Lo Prado	2015	23824
+Lo Prado	2016	23056
+Lo Prado	2017	16958
+Lo Prado	2018	27671
+Lo Prado	2019	10997
+Macul	2009	885
+Macul	2010	13062
+Macul	2011	11216
+Macul	2012	12800
+Macul	2013	12989
+Macul	2014	10592
+Macul	2015	11467
+Macul	2016	11286
+Macul	2017	9640
+Macul	2018	9826
+Macul	2019	3893
+Maipu	2008	47338
+Maipu	2009	67864
+Maipu	2010	95234
+Maipu	2011	71140
+Maipu	2012	83004
+Maipu	2013	90064
+Maipu	2014	77550
+Maipu	2015	73020
+Maipu	2016	70903
+Maipu	2017	53800
+Maipu	2018	55598
+Maipu	2019	23895
+Maria Pinto	2009	3556
+Maria Pinto	2010	6925
+Maria Pinto	2011	7192
+Maria Pinto	2012	8313
+Maria Pinto	2013	9656
+Maria Pinto	2014	8477
+Maria Pinto	2015	9095
+Maria Pinto	2016	9040
+Maria Pinto	2017	8146
+Maria Pinto	2018	7924
+Maria Pinto	2019	3234
+Melipilla	2009	15601
+Melipilla	2010	34232
+Melipilla	2011	31562
+Melipilla	2012	34551
+Melipilla	2013	32397
+Melipilla	2014	27492
+Melipilla	2015	28414
+Melipilla	2016	30062
+Melipilla	2017	26946
+Melipilla	2018	27039
+Melipilla	2019	10698
+Ñuñoa	2008	11302
+Ñuñoa	2009	17096
+Ñuñoa	2010	28086
+Ñuñoa	2011	23748
+Ñuñoa	2012	25715
+Ñuñoa	2013	25454
+Ñuñoa	2014	23723
+Ñuñoa	2015	24504
+Ñuñoa	2016	24942
+Ñuñoa	2017	21233
+Ñuñoa	2018	20096
+Ñuñoa	2019	7596
+Padre Hurtado	2009	9741
+Padre Hurtado	2010	20796
+Padre Hurtado	2011	20407
+Padre Hurtado	2012	22135
+Padre Hurtado	2013	21880
+Padre Hurtado	2014	19874
+Padre Hurtado	2015	21080
+Padre Hurtado	2016	19252
+Padre Hurtado	2017	18473
+Padre Hurtado	2018	18248
+Padre Hurtado	2019	7742
+Paine	2009	5321
+Paine	2010	11888
+Paine	2011	11356
+Paine	2012	13284
+Paine	2013	10917
+Paine	2014	9306
+Paine	2015	10049
+Paine	2016	9804
+Paine	2017	9871
+Paine	2018	10091
+Paine	2019	4545
+Pedro Aguirre Cerda	2009	12268
+Pedro Aguirre Cerda	2010	42667
+Pedro Aguirre Cerda	2011	47065
+Pedro Aguirre Cerda	2012	47607
+Pedro Aguirre Cerda	2013	44889
+Pedro Aguirre Cerda	2014	39006
+Pedro Aguirre Cerda	2015	42288
+Pedro Aguirre Cerda	2016	39863
+Pedro Aguirre Cerda	2017	35754
+Pedro Aguirre Cerda	2018	39291
+Pedro Aguirre Cerda	2019	15529
+Peñaflor	2009	10778
+Peñaflor	2010	19595
+Peñaflor	2011	15926
+Peñaflor	2012	15056
+Peñaflor	2013	21762
+Peñaflor	2014	25613
+Peñaflor	2015	29162
+Peñaflor	2016	31388
+Peñaflor	2017	29300
+Peñaflor	2018	28207
+Peñaflor	2019	12019
+Peñalolén	2008	29232
+Peñalolén	2009	34917
+Peñalolén	2010	75981
+Peñalolén	2011	66413
+Peñalolén	2012	75137
+Peñalolén	2013	72404
+Peñalolén	2014	63219
+Peñalolén	2015	63849
+Peñalolén	2016	64900
+Peñalolén	2017	60993
+Peñalolén	2018	60205
+Peñalolén	2019	23538
+Pirque	2010	1
+Pirque	2011	202
+Pirque	2012	4259
+Pirque	2013	5289
+Pirque	2014	5835
+Pirque	2015	6568
+Pirque	2016	6124
+Pirque	2017	5714
+Pirque	2018	5638
+Pirque	2019	2524
+Providencia	2008	26658
+Providencia	2009	34919
+Providencia	2010	31964
+Providencia	2011	26877
+Providencia	2012	26598
+Providencia	2013	23148
+Providencia	2014	20612
+Providencia	2015	23161
+Providencia	2016	23999
+Providencia	2017	24552
+Providencia	2018	23954
+Providencia	2019	9556
+Pudahuel	2009	4998
+Pudahuel	2010	10628
+Pudahuel	2011	11215
+Pudahuel	2012	13606
+Pudahuel	2013	15425
+Pudahuel	2014	15069
+Pudahuel	2015	15769
+Pudahuel	2016	13673
+Pudahuel	2017	13433
+Pudahuel	2018	25441
+Pudahuel	2019	10267
+Puente Alto	2008	56454
+Puente Alto	2009	130123
+Puente Alto	2010	194885
+Puente Alto	2011	145684
+Puente Alto	2012	167564
+Puente Alto	2013	158389
+Puente Alto	2014	128266
+Puente Alto	2015	162058
+Puente Alto	2016	166640
+Puente Alto	2017	167493
+Puente Alto	2018	161594
+Puente Alto	2019	66213
+Quilicura	2010	21590
+Quilicura	2011	45560
+Quilicura	2012	44349
+Quilicura	2013	62121
+Quilicura	2014	64654
+Quilicura	2015	68769
+Quilicura	2016	66722
+Quilicura	2017	60701
+Quilicura	2018	54537
+Quilicura	2019	24254
+Quinta Normal	2008	29466
+Quinta Normal	2009	34744
+Quinta Normal	2010	32664
+Quinta Normal	2011	32022
+Quinta Normal	2012	34562
+Quinta Normal	2013	42370
+Quinta Normal	2014	40368
+Quinta Normal	2015	45603
+Quinta Normal	2016	46954
+Quinta Normal	2017	40731
+Quinta Normal	2018	39137
+Quinta Normal	2019	15027
+Recoleta	2010	34945
+Recoleta	2011	39659
+Recoleta	2012	44020
+Recoleta	2013	46779
+Recoleta	2014	42792
+Recoleta	2015	46347
+Recoleta	2016	42288
+Recoleta	2017	44270
+Recoleta	2018	49150
+Recoleta	2019	18209
+Renca	2008	50375
+Renca	2009	54322
+Renca	2010	64952
+Renca	2011	60640
+Renca	2012	60711
+Renca	2013	67275
+Renca	2014	58395
+Renca	2015	63299
+Renca	2016	66438
+Renca	2017	55377
+Renca	2018	54603
+Renca	2019	24526
+San Bernardo	2008	27906
+San Bernardo	2009	83388
+San Bernardo	2010	163802
+San Bernardo	2011	154663
+San Bernardo	2012	151267
+San Bernardo	2013	141964
+San Bernardo	2014	127688
+San Bernardo	2015	129763
+San Bernardo	2016	117825
+San Bernardo	2017	98593
+San Bernardo	2018	102050
+San Bernardo	2019	42737
+San Joaquín	2009	8750
+San Joaquín	2010	20596
+San Joaquín	2011	19488
+San Joaquín	2012	26389
+San Joaquín	2013	25293
+San Joaquín	2014	23209
+San Joaquín	2015	25419
+San Joaquín	2016	25465
+San Joaquín	2017	23637
+San Joaquín	2018	24799
+San Joaquín	2019	9489
+San José de Maipo	2009	2424
+San José de Maipo	2010	4396
+San José de Maipo	2011	2906
+San José de Maipo	2012	5471
+San José de Maipo	2013	5844
+San José de Maipo	2014	4942
+San José de Maipo	2015	4924
+San José de Maipo	2016	4684
+San José de Maipo	2017	4109
+San José de Maipo	2018	3454
+San José de Maipo	2019	1416
+San Miguel	2008	25744
+San Miguel	2009	36318
+San Miguel	2010	40570
+San Miguel	2011	44086
+San Miguel	2012	52328
+San Miguel	2013	49165
+San Miguel	2014	43777
+San Miguel	2015	48022
+San Miguel	2016	45947
+San Miguel	2017	43435
+San Miguel	2018	41469
+San Miguel	2019	16791
+San Pedro	2018	3
+San Pedro	2019	667
+San Ramón	2008	48482
+San Ramón	2009	77294
+San Ramón	2010	93496
+San Ramón	2011	74718
+San Ramón	2012	76371
+San Ramón	2013	72037
+San Ramón	2014	59531
+San Ramón	2015	62134
+San Ramón	2016	56267
+San Ramón	2017	53711
+San Ramón	2018	52533
+San Ramón	2019	21680
+Santiago	2008	43238
+Santiago	2009	62264
+Santiago	2010	68411
+Santiago	2011	58565
+Santiago	2012	57904
+Santiago	2013	55640
+Santiago	2014	46232
+Santiago	2015	48973
+Santiago	2016	53610
+Santiago	2017	54272
+Santiago	2018	55150
+Santiago	2019	20431
+Talagante	2009	7188
+Talagante	2010	24445
+Talagante	2011	29939
+Talagante	2012	25544
+Talagante	2013	33958
+Talagante	2014	32397
+Talagante	2015	34005
+Talagante	2016	31833
+Talagante	2017	32399
+Talagante	2018	28210
+Talagante	2019	9640
+Tiltil	2011	0
+Tiltil	2012	6514
+Tiltil	2013	7702
+Tiltil	2014	7744
+Tiltil	2015	8073
+Tiltil	2016	9246
+Tiltil	2017	7840
+Tiltil	2018	6880
+Tiltil	2019	2473

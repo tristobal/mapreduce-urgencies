@@ -5,5 +5,5 @@ Sobre una planilla con listado de atenciones de urgencia del 2018 de Santiago de
 ## Ejecución
 
 ```sh
-cat urgencia2018.csv | python mapper-urgencies-v2.py | sort | python reducer-urgencies-v2.py | sort
+cat urgencias2008_2019.csv | python mapper-urgencies-v2.py | sort | python reducer-urgencies-v2.py | sort
 ``` 
