@@ -2,9 +2,9 @@
 
 Sobre una planilla con listado de atenciones de urgencia del 2018 de Santiago de Chile se ejecutan un algoritmo mapreduce en python para mostrar el total de atenciones por centro establecimiento.
 
-## Datos
+## Datos Originales
 
-Variables de la base de datos del sistema de Atenciones de Urgencia
+### Variables de la base de datos del sistema de Atenciones de Urgencia
 
 *Ministerio de Salud- Departamento de Estadística e Información de Salud*
 
@@ -25,6 +25,21 @@ Variables de la base de datos del sistema de Atenciones de Urgencia
 | GLOSATIPOESTABLECIMIENTO | Tipo de Establecimiento |
 | GLOSATIPOATENCION | Tipo de Atención |
 | GlosaTipoCampana | Tipo de Campaña |
+
+### Temperatura
+
+Mediciones de Stgo (estación Quilicura).
+
+| Timestamp medición | Temperatura |
+|--------------------|-------------|
+| 01/01/2008 00:00   | 27.2        |
+| 01/01/2008 03:00   | 22.2        |
+| 01/01/2008 06:00   | 18.7        |
+| 01/01/2008 09:00   | 15.2        |
+| 01/01/2008 12:00   | 21.9        |
+| 01/01/2008 15:00   | 28.8        |
+| ...                | ...         |
+
 
 ## Ejecución en local
 
